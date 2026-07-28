@@ -1,0 +1,11 @@
+id_estudiante,nombre,curso,fecha_inscripcion,estado,calificacion_final
+1,Ana López,Python Básico,2025-03-12,Completado,8.5
+2,Juan Pérez,Java Intermedio,2025-04-05,En curso,
+3,María Gómez,React Avanzado,2025-05-20,Completado,9.0
+4,Carlos Díaz,Python Básico,2025-06-01,Completado,7.8
+5,Lucía Fernández,Data Science,2025-06-15,En curso,
+6,Martín Rodríguez,Java Intermedio,2025-07-02,Completado,8.2
+7,Sofía Martínez,Data Science,2025-07-10,Completado,9.3
+8,Diego Torres,React Avanzado,2025-07-18,En curso,
+9,Valentina Castro,Python Básico,2025-07-20,Completado,8.7
+10,Agustín Morales,Data Science,2025-07-25,Completado,7.9
