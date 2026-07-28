@@ -51,6 +51,15 @@ Respuesta: El producto más vendido fue "Notebook X", con 1.245 unidades.
 
 Pregunta: ¿Qué lenguajes de programación se usan en el back-end?
 Respuesta: Según la documentación, se utilizan Java y .NET.
+
+El agente podrá responder preguntas como:
+
+“¿Cuánto tiempo tengo para pedir un reembolso?”
+
+“¿Qué pasa si comparto mi usuario con otra persona?”
+
+“¿Cómo accedo al certificado?”
+
 🛠️ Instrucciones de ejecución local
 Clonar el repositorio:
 
