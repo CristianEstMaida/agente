@@ -60,6 +60,14 @@ El agente podrá responder preguntas como:
 
 “¿Cómo accedo al certificado?”
 
+“¿Cuál es el curso con más estudiantes inscriptos?”
+
+“Qué promedio obtuvieron los estudiantes en Python Básico?”
+
+“Cuántos alumnos completaron Data Science?”
+
+“Quién obtuvo la mejor calificación en React Avanzado?”
+
 🛠️ Instrucciones de ejecución local
 Clonar el repositorio:
 
