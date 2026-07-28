@@ -72,3 +72,6 @@ print("Promedio en Python Básico:", promedio_python)
 # Mejor calificación en React Avanzado
 mejor_react = df[df['curso'] == "React Avanzado"]['calificacion_final'].max()
 print("Mejor calificación en React Avanzado:", mejor_react)
+
+#respuesta = qa.run("¿Cuál fue el producto más vendido en diciembre de 2015?")
+#print(respuesta)
