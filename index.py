@@ -1,5 +1,5 @@
 # Paso 1: Instalación de librerías
-!pip install langchain openai faiss-cpu pdfplumber pandas
+#!pip install langchain openai faiss-cpu pdfplumber pandas
 
 # Paso 2: Cargar documentos
 # Documento de texto (FAQ, reglamento, políticas)
