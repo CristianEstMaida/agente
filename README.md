@@ -6,7 +6,7 @@ Este proyecto implementa un agente de IA capaz de **leer documentos (PDF/CSV)**,
 
 ## 🚀 Arquitectura
 
-```text
+
                 ┌─────────────────────┐
                 │   Documento fuente  │
                 │ (PDF / CSV / otros) │
@@ -45,7 +45,7 @@ Este proyecto implementa un agente de IA capaz de **leer documentos (PDF/CSV)**,
                 │ (Deploy en la nube) │
                 └─────────────────────┘
 💡 Ejemplos de preguntas y respuestas
-text
+
 Pregunta: ¿Cuál fue el producto más vendido en diciembre de 2015?
 Respuesta: El producto más vendido fue "Notebook X", con 1.245 unidades.
 
