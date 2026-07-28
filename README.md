@@ -55,7 +55,7 @@ Respuesta: Según la documentación, se utilizan Java y .NET.
 Clonar el repositorio:
 
 bash
-git clone https://github.com/usuario/agente-oci.git
+git clone https://github.com/CristianEstMaida/agente.git
 cd agente-oci
 Instalar dependencias:
 
@@ -79,7 +79,7 @@ Crear instancia de contenedor en OCI.
 Configurar Load Balancer para acceso público.
 
 ✅ Comprobación del deploy
-Enlace público: [Parece que el resultado no era seguro para mostrar. ¡Cambiemos de enfoque y probemos algo diferente!]
+Enlace público:
 
 Captura de pantalla: ver /docs/deploy.png
 
